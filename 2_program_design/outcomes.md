@@ -17,4 +17,4 @@ By the time your program begins, you should have a clear idea and plan for the <
 
 [^3]: Bonney, R., Ellenbogen, K., Goodyear, L., &amp; Hellenga, R. (Eds.). (2001). _Principal investigator’s guide: Managing evaluation in informal STEM education projects_. Washington, D.C.: Center for Advancement of Informal Science Education.
 
-[^7]: _Surrounded by Science: Learning Science in Informal Environments_. (2010). Washington, D.C.: National Academies Press.
+[^4]: _Surrounded by Science: Learning Science in Informal Environments_. (2010). Washington, D.C.: National Academies Press.

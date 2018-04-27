@@ -22,4 +22,6 @@
   * [Facilitators](3_a_connected_learning_playbook/facilitators.md)
   * [Themes](3_a_connected_learning_playbook/themes.md)
   * [Section 3 Activities](3_a_connected_learning_playbook/section_3_activities.md)
+    * [3A. Design a connected learning program](3_a_connected_learning_playbook/section_3_activities/3a-design-a-connected-learning-program.md)
+    * [3B. Programming KWL](3_a_connected_learning_playbook/section_3_activities/3b-programming-kwl.md)
 

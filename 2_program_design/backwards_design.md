@@ -13,7 +13,9 @@
 
 
 <div class="table-format case-study"><span class="title"><h5>YOUTH INVOLVEMENT IN PROGRAM DESIGN</h5></span>
-Youth can and should be involved in the process of designing a program. Pima County Public Library used an IMLS grant to create a <a href="https://www.library.pima.gov/blogs/post/planning-101-how-the-youth-design-team-got-to-work/">Youth Design Team</a> that helped plan new programs that resonated with their community’s teens.</div>
+<iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/HrJ79-tdKGQ">
+</iframe>
+<p>Youth can and should be involved in the process of designing a program. Pima County Public Library used an IMLS grant to create a <a href="https://www.library.pima.gov/blogs/post/planning-101-how-the-youth-design-team-got-to-work/">Youth Design Team</a> that helped plan new programs that resonated with their community’s teens.</p></div>
 
 ***
 
