@@ -4,7 +4,7 @@ Describe how your current teen offerings illustrate the principles of connected 
 
 <table class="table-format">
 <tr><th colspan="2"><b>CONNECTED LEARNING ELEMENTS</b></th></tr>
-<tr><td><b>Interests</b></td><td><textarea style="width: 100%; height: 100px; border: none;"/></td></tr>
-<tr><td><b>Relationships</b></td><td><textarea style="width: 100%; height: 100px; border: none;"/></td></tr><tr><td><b>Opportunity</b></td><td><textarea style="width: 100%; height: 100px; border: none;"/></td></tr><tr><td><b>Production centered</b></td><td><textarea style="width: 100%; height: 100px; border: none;"/></td></tr><tr><td><b>Shared purpose</b></td><td><textarea style="width: 100%; height: 100px; border: none;"/></td></tr><tr><td><b>Sponsorship</b></td><td><textarea style="width: 100%; height: 100px; border: none;"/></td></tr><tr><td><b>Building pathways</b></td><td><textarea style="width: 100%; height: 100px; border: none;"/></td></tr></table>
+<tr><td><b>Interests</b></td><td><textarea style="width: 100%; height: 100px; border: 1px;"/></td></tr>
+<tr><td><b>Relationships</b></td><td><textarea style="width: 100%; height: 100px; border: 1px;"/></td></tr><tr><td><b>Opportunity</b></td><td><textarea style="width: 100%; height: 100px; border: 1px;"/></td></tr><tr><td><b>Production centered</b></td><td><textarea style="width: 100%; height: 100px; border: 1px;"/></td></tr><tr><td><b>Shared purpose</b></td><td><textarea style="width: 100%; height: 100px; border: 1px;"/></td></tr><tr><td><b>Sponsorship</b></td><td><textarea style="width: 100%; height: 100px; border: 1px;"/></td></tr><tr><td><b>Building pathways</b></td><td><textarea style="width: 100%; height: 100px; border: 1px;"/></td></tr></table>
 
 Which of these principles do you feel comfortable with? Which ones do you need to work on? Choose one principle to focus on during these activities.
