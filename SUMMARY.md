@@ -13,6 +13,7 @@
   * [Outcomes](2_program_design/outcomes.md)
   * [Theory of Change](2_program_design/theory_of_change.md)
   * [Section 2 Activities](2_program_design/section_2_activities.md)
+    * [2A. Create a theory of change](2_program_design/section_2_activities/2a-create-a-theory-of-change.md)
 * [3. A Connected Learning Playbook](3_a_connected_learning_playbook/README.md)
   * [Outcomes](3_a_connected_learning_playbook/outcomes.md)
   * [Participants](3_a_connected_learning_playbook/participants.md)
