@@ -1,7 +1,6 @@
 ## Outcomes {#outcomes}
 
->“I would love to have more Minecraft programs at the library, I&#039;d love to have an on-going Minecraft club, but I&#039;m getting a little pushback from my team because they don&#039;t see Minecraft as a library service. They don&#039;t see building things in a 3D environment as related to libraries, but who knows what the jobs of five years are gonna be? For all we know, we could rebrand it as job skills development. The jobs of five years from now don&#039;t exist today, so who knows?” 
--— INTS_031
+> “I would love to have more Minecraft programs at the library, I&#039;d love to have an on-going Minecraft club, but I&#039;m getting a little pushback from my team because they don&#039;t see Minecraft as a library service. They don&#039;t see building things in a 3D environment as related to libraries, but who knows what the jobs of five years are gonna be? For all we know, we could rebrand it as job skills development. The jobs of five years from now don&#039;t exist today, so who knows?” <br/>-- INTS_031
 
 We talked broadly about program outcomes in section 2, but in this section we will look more specifically at different kinds of outcomes you might consider for your program. YALSA has identified six categories of outcomes for its “Teens First” approach to programming: community, creativity, digital citizenship, leadership, learning, and literacies.[^1] (For a list of sample outcomes for each category, see [Teens First: Basic Learning Outcomes](http://www.ala.org/yalsa/sites/ala.org.yalsa/files/content/Teens%20First_%20Basic%20Learning%20Outcomes%20Guide.pdf).)
 
