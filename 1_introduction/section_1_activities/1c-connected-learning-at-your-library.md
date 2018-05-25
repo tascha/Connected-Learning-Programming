@@ -1,3 +1,5 @@
+<div style="text-align:center;"><img src="/assets/CL_Swoosh.png" alt="ConnectedLib: Helping librarians use digital media to make learning connections with youth"/></div>
+
 ### 1C. Connected learning at your library {#1c-connected-learning-at-your-library}
 
 Describe how your current teen offerings illustrate the principles of connected learning. If they don’t, what are some ways you could integrate them into your existing programs? You can use your work from Activity 2A in the Introduction to Connected Learning module if you’ve completed it. If you want, you can focus on only one program, project, or initiative.

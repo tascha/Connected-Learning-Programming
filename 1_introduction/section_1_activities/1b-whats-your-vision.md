@@ -1,3 +1,5 @@
+<div style="text-align:center;"><img src="/assets/CL_Swoosh.png" alt="ConnectedLib: Helping librarians use digital media to make learning connections with youth"/></div>
+
 ### 1B. What’s your vision? {#1b-what-s-your-vision}
 
 Think about your current or past teen programs. What is working well? What could be better?

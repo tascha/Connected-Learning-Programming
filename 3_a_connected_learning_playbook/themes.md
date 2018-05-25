@@ -1,3 +1,5 @@
+<div style="text-align:center;"><img src="/assets/CL_Swoosh.png" alt="ConnectedLib: Helping librarians use digital media to make learning connections with youth"/></div>
+
 ## Themes {#themes}
 
 It can be tempting to start program development by choosing a theme — this is often the most fun and appealing element — but don’t give in to the temptation of letting the theme drive the entire program. Start with the outcomes and the participants you want as a basis, and figure out at least the basics of your format, activities, and facilitators before running wild with a theme.

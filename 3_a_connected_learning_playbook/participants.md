@@ -1,5 +1,7 @@
+<div style="text-align:center;"><img src="/assets/CL_Swoosh.png" alt="ConnectedLib: Helping librarians use digital media to make learning connections with youth"/></div>
+
 ## Participants {#participants}
->“I have pretty good relationships with all of our regulars and they&#039;ll send me an email if they see something they wanna do or I always know the next thing that they&#039;re geeking out about and we&#039;ll try to incorporate that into something.”</br>—- INTK_035
+>“I have pretty good relationships with all of our regulars and they&#039;ll send me an email if they see something they wanna do or I always know the next thing that they&#039;re geeking out about and we&#039;ll try to incorporate that into something.”<br/>—- INTK_035
 
 Think about the teens who will be attending your program. They may come with a diverse set of backgrounds, interests, and abilities. Although you cannot anticipate the background of every teen you will work with, you can try to keep your mind and your programs open to ensure that the library is working for every teen in your community.
 

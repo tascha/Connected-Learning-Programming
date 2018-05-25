@@ -1,3 +1,5 @@
+<div style="text-align:center;"><img src="/assets/CL_Swoosh.png" alt="ConnectedLib: Helping librarians use digital media to make learning connections with youth"/></div>
+
 ## Backwards Design {#backwards-design}
 
 “Backwards design” is an approach to developing learning experiences. Starting with the desired outcomes for your program and how you will measure them, the process works in an “intentionally backwards”[^1] direction, planning the specific activities involved in the program last. In the following video, researchers from the University of Colorado Boulder explain backwards design in more detail:

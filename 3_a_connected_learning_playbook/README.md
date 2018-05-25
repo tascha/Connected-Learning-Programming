@@ -1,3 +1,5 @@
+<div style="text-align:center;"><img src="/assets/CL_Swoosh.png" alt="ConnectedLib: Helping librarians use digital media to make learning connections with youth"/></div>
+
 # 3\. A Connected Learning Playbook {#3-a-connected-learning-playbook}
 
 In this section, we’ll discuss six major elements of a connected learning program: outcomes, participants, program format, activities, facilitators, and themes.

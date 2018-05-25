@@ -1,3 +1,5 @@
+<div style="text-align:center;"><img src="/assets/CL_Swoosh.png" alt="ConnectedLib: Helping librarians use digital media to make learning connections with youth"/></div>
+
 ## Activities {#activities}
 
 The activities are the way you can make your program **production centered**, and they should align directly with the outcome(s) you chose in 3.1\. Choosing the right activity requires an understanding of youth development as well as the unique characteristics of your desired participants.

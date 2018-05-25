@@ -1,3 +1,5 @@
+<div style="text-align:center;"><img src="/assets/CL_Swoosh.png" alt="ConnectedLib: Helping librarians use digital media to make learning connections with youth"/></div>
+
 ### 1A. Programming KWL {#1a-programming-kwl}
 
 Complete this worksheet by first describing your experience (if any) with creating programs for teens (include your experience with connected learning programs if you have any). Then create a list of what you already know (the K in KWL) about creating connected learning programs. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L), when you have completed this module.

@@ -1,3 +1,5 @@
+<div style="text-align:center;"><img src="/assets/CL_Swoosh.png" alt="ConnectedLib: Helping librarians use digital media to make learning connections with youth"/></div>
+
 ## Outcomes {#outcomes}
 
 Designing a program starts with a thoughtful articulation of the outcome or outcomes you want to achieve through it. An outcome is simply something outside of your program and outside of connected learning that matters to someone.[^1]
@@ -6,7 +8,7 @@ The outcomes you want from your programs should align with your library’s stra
 
 Talk to your stakeholders as you develop outcomes. They should all agree that the outcomes are important and desired. They may even suggest surprising or nontraditional outcomes. By involving your stakeholders, you can get different perspectives on what outcomes are the most important.[^4]
 
-<div class="table-format sidebar"><span class="title"><h5>EVALUATION AND ASSESSMENT</h5></span>
+<div class="table-format sidebar"><span class="title"><h5>ASSESSMENT AND EVALUATION</h5></span>
 By the time your program begins, you should have a clear idea and plan for the <b>assessment</b> of teens’ progress and the <b>evaluation</b> of the program as a whole. Keep the big picture in mind, especially when evaluating programs that seem to have failed. The program might have been a good idea that suffered from poor marketing or timing (or vice versa). See the Evaluation and Assessment module for more.</div>
 
 ***

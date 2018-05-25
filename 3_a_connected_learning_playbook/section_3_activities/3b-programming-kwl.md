@@ -1,3 +1,5 @@
+<div style="text-align:center;"><img src="/assets/CL_Swoosh.png" alt="ConnectedLib: Helping librarians use digital media to make learning connections with youth"/></div>
+
 ### 3B. Programming KWL {#3b-programming-kwl}
 
 Reflecting on this module as a whole, review the KWL you completed at the beginning of the module. Copy over what you completed for Activity 1A, then completed the L(earn) section. What did you learn in this module? Did you learn everything from your W column? If not, discuss this with the rest of the class.

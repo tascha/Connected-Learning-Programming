@@ -1,3 +1,5 @@
+<div style="text-align:center;"><img src="/assets/CL_Swoosh.png" alt="ConnectedLib: Helping librarians use digital media to make learning connections with youth"/></div>
+
 ## Facilitators {#facilitators}
 
 Supportive relationships are a key factor in the success of youth programs.[^1] Your choice of facilitator for your program affects not just the activities you can develop and the outcomes you achieve, but also the sense of **shared purpose** that teens feel when participating. Looking beyond library staff for other possible facilitators or leaders is part of **building pathways** for learning.
@@ -26,7 +28,7 @@ Jenniver Velasquez describes teen participation in programming on a spectrum fro
 <iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/-JMiNErnE2I">
 </iframe></div>
 
->“You do want the students to be the ones that are in charge of it, but it works better when you can have multiple mentors that can be there so when the students do get stuck, they have someone they can ask.”<br/> -— INTK_001
+>“You do want the students to be the ones that are in charge of it, but it works better when you can have multiple mentors that can be there so when the students do get stuck, they have someone they can ask.”<br/>--INTK_001
 
 ***
 

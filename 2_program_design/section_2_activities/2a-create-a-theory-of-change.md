@@ -1,3 +1,5 @@
+<div style="text-align:center;"><img src="/assets/CL_Swoosh.png" alt="ConnectedLib: Helping librarians use digital media to make learning connections with youth"/></div>
+
 ### 2A. Create a theory of change {#2a-create-a-theory-of-change}
 
 Choose a program at your library or one you are familiar with. Can you analyze it to complete the simple theory of change worksheet below?

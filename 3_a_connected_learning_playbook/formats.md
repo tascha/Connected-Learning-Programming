@@ -1,3 +1,5 @@
+<div style="text-align:center;"><img src="/assets/CL_Swoosh.png" alt="ConnectedLib: Helping librarians use digital media to make learning connections with youth"/></div>
+
 ## Formats {#formats}
 
 Keep the **building pathways** and **production centered** principles of connected learning in mind while choosing the format of your program. How can your program best connect teens to the resources, skills, and knowledge they need or want? How can you empower them to create something meaningful? Remember the principles of HOMAGO, as well. Hanging out, messing around, geeking out — valuable learning can occur in each of these types of participation. A popular walk-up activity can have a greater impact than an intense workshop series if teens don’t attend.

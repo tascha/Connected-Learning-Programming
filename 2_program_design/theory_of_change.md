@@ -1,3 +1,5 @@
+<div style="text-align:center;"><img src="/assets/CL_Swoosh.png" alt="ConnectedLib: Helping librarians use digital media to make learning connections with youth"/></div>
+
 ## Theory of Change {#theory-of-change}
 
 Once you have decided where you’re going, you need to figure out how to get there. A theory of change explains “how and why the program will work.”[^1] It describes how your program will help you get from where you are to your desired outcomes in both narrative and graphic formats. A theory of change can be messy, recursive, and multidimensional, just like reality.[^2] A different approach is to create a logic model, in which the “how and why” are broken down into components arranged in a more logical order. Connell and Kubisch (1998) describe a good theory of change as _plausible_, _doable_, and _testable_. In either case, work backwards from your outcomes until you reach the specific activities that will begin the change you want to see.
