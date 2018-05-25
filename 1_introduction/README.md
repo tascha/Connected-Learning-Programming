@@ -4,7 +4,7 @@
 
 This module will discuss how connected learning fits in with a 21st century library, provide an overview of the program design process, and offer some springboards to help inspire your next teen initiative.
 
-<div class="table-format objectives"><span class="title"><h5>LEARNING OUTCOMES</h5></span>
+<div class="table-format objectives"><span class="title"><h5>LEARNING OBJECTIVES</h5></span>
 After completing Section 1: Introduction, you will be able to...
 <ul><li>Recognize the characteristics of connected learning in a 21st century library</li><li>Explain how connected learning can help you implement the principles outlined by The Future of Library Services For and With Teens and the YALSA Teen Programming Guidelines</li></ul>
 </div>

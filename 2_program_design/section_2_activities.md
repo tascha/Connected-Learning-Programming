@@ -2,5 +2,5 @@
 
 ## Section 2 Activities {#section-2-activities}
 
-[2A. Create a theory of change](/section_2_activities/2a-create-a-theory-of-change.html)
+[2A. Create a theory of change](/2_program_design/section_2_activities/2a-create-a-theory-of-change.html)
 
